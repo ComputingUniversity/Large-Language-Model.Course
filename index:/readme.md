@@ -1,2 +1,3 @@
 - https://www.coursera.org/learn/introduction-to-large-language-models-espaol
 - https://www.coursera.org/learn/introduction-to-large-language-models-ja
+- https://www.coursera.org/projects/googlecloud-build-an-llm-and-rag-based-chat-application-using-alloydb-and-ee5qd
