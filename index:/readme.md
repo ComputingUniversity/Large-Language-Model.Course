@@ -1,2 +1,2 @@
 - https://www.coursera.org/learn/introduction-to-large-language-models-espaol
-- 
+- https://www.coursera.org/learn/introduction-to-large-language-models-ja
